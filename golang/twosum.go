@@ -8,5 +8,4 @@ func twoSum(nums []int, target int) []int {
         }
         numMap[num] = i
     }
-    return nil // No solution found
-}
+    return nil 
